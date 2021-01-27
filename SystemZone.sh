@@ -10,7 +10,7 @@ apt install cowsay -y
 apt install nano -y
 apt install ruby -y
 gem install lolcat
-figlet -f big Done !!! | lolcat
+figlet -f big Em !!! | Tawaw
 echo
 echo -e "\e[1m Tawaw esta B-Arez.sh bka esh...!!!"
 echo
